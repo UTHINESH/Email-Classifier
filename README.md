@@ -1,6 +1,5 @@
-
-#Email Spam Classifier
-####This project is an email spam classifier built using machine learning techniques in Python. It distinguishes between spam and ham (non-spam) emails using a logistic regression model trained on a dataset of email content.
+# Email Spam Classifier
+#### This project is an email spam classifier built using machine learning techniques in Python. It distinguishes between spam and ham (non-spam) emails using a logistic regression model trained on a dataset of email content.
 
 Getting Started
 To get started with this project, follow these instructions:
